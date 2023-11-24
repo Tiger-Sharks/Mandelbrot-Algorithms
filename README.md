@@ -13,7 +13,7 @@ You also can run the the code yourself by the given set of instructions and see 
 
 2) Type the following command in accordance to you Operating System (Considering you saved the file by the name of "Mandelbrot.py")
 
-  For Windows (Powershell):
+</t>For Windows (Powershell):
 ```
   Measure-Command { python .\ Mandelbrot.py 16000 }
 ```
