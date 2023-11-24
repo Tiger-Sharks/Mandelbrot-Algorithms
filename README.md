@@ -1,6 +1,6 @@
 # Mandelbrot-Algorithms
 
-This repository contains codes for generating the Mandelbrot Set, a famous fractal that exibits complex and beautiful patterns, to stress test your system's CPU. The Mandelbrot Set is defined by the equation z^n + c = 0, where n is a complex number and c is a constant. The set consists of all the points (z, c) that do not escape to infinity after repeated iterations of the equation.
+This repository contains codes for generating the Mandelbrot Set, a famous fractal that exibits complex and beautiful patterns, to stress test your system's CPU. The Mandelbrot Set is defined by the equation <b><i>z^n + c = 0</i></b>, where <b><i>n</i></b> is a complex number and <b><i>c</i></b> is a constant. The set consists of all the points <b><i>(z, c)</i></b> that do not escape to infinity after repeated iterations of the equation.
 
 The repository will showcase algorithm to plot the Mandelbrot Set in various languages, such as Python, PHP, and Java.
 
