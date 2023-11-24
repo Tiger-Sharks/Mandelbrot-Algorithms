@@ -4,7 +4,7 @@ This repository contains codes for generating the Mandelbrot Set, a famous fract
 
 The repository will showcase algorithm to plot the Mandelbrot Set in various languages, such as Python, PHP, and Java.
 
-If you are interested in learning more about the Mandelbrot Set and its properties, do check out some of the resources listed <a href="https://en.wikipedia.org/wiki/Plotting_algorithms_for_the_Mandelbrot_set"> on this topic page</a>.
+If you are interested in learning more about the Mandelbrot Set and its properties, do check out some of the resources listed <a href="https://en.wikipedia.org/wiki/Plotting_algorithms_for_the_Mandelbrot_set"> on the topic page</a>.
 
 You also can run the the code yourself by the given set of instructions and see how it works.
 
@@ -13,7 +13,16 @@ You also can run the the code yourself by the given set of instructions and see 
 
 2) Type the following command in accordance to you Operating System (Considering you saved the file by the name of "Mandelbrot.py")
 
-&nbsp;&nbsp;For Windows (Powershell):
+For Windows (Powershell):
 ```
   Measure-Command { python .\ Mandelbrot.py 16000 }
 ```
+
+For Linux and macOS:
+```
+time python Mandelbrot.py 16000 > /dev/null
+```
+
+3) Wait till the code executes, and post execution, see your results.
+
+⚠️ NOTE: The command line argument (16000) allows us to check the CPU performance. To increase or decrese the stress on the CPU, feel free to play around with that number at your own risk. The thermals might react in accordance to the same.
