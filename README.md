@@ -25,4 +25,5 @@ time python Mandelbrot.py 16000 > /dev/null
 
 3) Wait till the code executes, and post execution, see your results.
 
-⚠️ NOTE: The command line argument (16000) allows us to check the CPU performance. To increase or decrese the stress on the CPU, feel free to play around with that number at your own risk. The thermals might react in accordance to the same.
+⚠️ NOTE: The command line argument (16000) allows us to check the CPU performance. To increase or decrese the stress on the CPU, feel free to play around with that number <b>at your own risk</b>.
+The thermals might react in accordance to the same.
