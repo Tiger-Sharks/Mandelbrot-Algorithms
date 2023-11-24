@@ -12,7 +12,7 @@ You also can run the the code yourself by the given set of instructions and see 
 1) Open up the terminal in the current working directory of the code.
 
 2) Type the following command in accordance to you Operating System. (Considering you saved the file by the name of "Mandelbrot.py")
-*Refer to <a href="https://github.com/Tiger-Sharks/Mandelbrot-Algorithms/blob/main/Terminal Commands.md"> Execution Commands</a> for further reference.
+*Refer to <a href="https://github.com/Tiger-Sharks/Mandelbrot-Algorithms/blob/main/Terminal%20Commands.md"> Execution Commands</a> for further reference.
 
 3) Wait till the code executes, and post execution, see your results.
 
